@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="home">
       <header className="hero-section">
-        <h1>Welcome to Expense Tracker</h1>
+        <h1>Welcome to your day to day Expense Tracker </h1>
         <p>Your one-stop platform for tracking all your expenses</p>
       </header>
 
